@@ -1,0 +1,115 @@
+#title{
+  background-color: black;
+  height:400px;
+}
+/* style for brand image */
+.top-image{
+  width:50px;
+  height:50px;
+}
+/* style for nav bar */
+.navbar{
+  font-family: 'Roboto', sans-serif;
+  padding:0 0 20px;
+}
+.nav-item{
+  padding:0 18px;
+}
+/* style for container */
+.container-fluid{
+  padding:3% 15%;
+}
+h3{
+  font-size: 20px;
+  line-height: 2.5;
+
+}
+.title-row{
+  text-align: center;
+  margin-top: 150px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+
+}
+/* style for skills section */
+#aboutme{
+  padding:7% 15%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.icon{
+  color: red;
+}
+.icon:hover{
+  color:black;
+}
+#aboutme p{
+  color:#8f8f8f
+}
+/* style for reviews */
+#reviews{
+  background-color: #4a47a3;
+  color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding:7% 15%;
+
+}
+
+
+#reviews p{
+  color:#8f8f8f
+}
+/* style for education */
+#education{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding:7% 15%;
+
+}
+#education .row{
+  margin-top: 50px;
+}
+.card1{
+  margin:7% 7%;
+}
+/* style for project section */
+#projects{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #FFB6B9;
+  font-family: 'Roboto', sans-serif;
+
+}
+/* image */
+.project1{ 
+  width:80px;
+  height:80px;
+
+}
+.row{
+  padding-bottom: 50px;
+}
+/* style for contact page */
+#contact{
+  text-align: center;
+  padding: 3% 40%;
+font-family: 'Roboto', sans-serif;
+
+}
+#contact.msg{
+  padding-top: 25px; 
+
+} 
+/* style for social icons */
+#social{
+  text-align: center;
+
+font-family: 'Roboto', sans-serif;
+background-color: rgba(0, 0, 0, 0.2);
+
+}
+.social-icon{
+  padding: 1% 5%;
+
+}
